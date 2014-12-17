@@ -1,0 +1,6 @@
+Ignacio Mulas;business;telecommunications;
+Peter Gomez;dating;traveling
+Gregg;business;entrepreneurship;
+Pedro Sanchez;business;telecommunications;
+Eric Ries;business;entrepreneurship;
+Ana Something;dating;traveling
